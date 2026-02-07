@@ -242,8 +242,8 @@ projects:
         link: "https://github.com/ch-ta/Lexical-Analyzer-v2"
         tagline: "Part 1 of the Predictive Parser, where a string is tokenized for syntax analysis."
 
-      - title: Syntactic Analyzer & Predictive Parser
-        link: "https://github.com/ch-ta/Syntactic-Analyzer-Predictive-Parser"
+      - title: Syntactic Analyzer Using a Predictive Parser
+        link: "https://github.com/ch-ta/Syntactic-Analyzer-Using-a-Predictive-Parser"
         tagline: "Part 2 of the Predictive Parser, where the tokenized string is parsed to see if it is accepted grammar."
 
       - title: Computer Builder Expert System
