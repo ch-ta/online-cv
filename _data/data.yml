@@ -1,0 +1,353 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Christopher Ta
+    tagline: Software Engineer & Data Scientist
+    avatar: 20231103_100100.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: cta002@csu.fullerton.edu
+    phone: 626 506 7355
+    timezone: America/Los_Angeles # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: United States Citizen
+    website: krunk-juice.github.io # Do not add https:// (Only works with https://, otherwise edit in _includes/contact.html) ### Include the full website URL, including "http://" or "https://".
+    linkedin: chris-ta
+    xing: 
+    github: krunk-juice
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    bluesky: #'@jekyllrb.bsky.social' # Specify your full Bluesky handle
+    twitter: #'@jekyllrb'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    mastodon: # Please include your full Mastodon link here.
+    hackerrank: # Please provide your HackerRank username.
+    leetcode: # Please provide your LeetCode username.
+    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+        - idiom: Vietnamese
+          level: Beginner
+
+    interests:
+      title: Interests
+      info:
+        - item: Technology
+          link:
+
+        - item: Tennis
+          link:
+
+        - item: Video Games
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      A technologically driven individual. Starting as a biology student, and 
+      transitioning to a computer scientist. I have had the priveledge of 
+      learning from many great teachers that have provided me the tools and to
+      guidance to problem-solve through various complex issues. I have 
+      volunteered with various health organizations to provide patient care. 
+      During my time as a graduate student at CSUF I had the oportunity to 
+      instruct a computer science compilers and languages course for one 
+      semester. At the end of my time at CSUF, my advisor guided me with how 
+      to develop a conference paper that I would author, present at the 
+      [2023 IEEE World AI IoT Congress](https://worldaiiotcongress.org/), and 
+      publish in [IEEE Xplore® digital library](https://ieeexplore.ieee.org/document/10174419).
+        
+education:
+    title: Education
+    info:
+      - degree: Master of Science in Computer Science
+        university: California State University, Fullerton
+        time: Aug. 2018 - Jan. 2023
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: No Degree
+        university: Mt. San Antonio College
+        time: Feb. 2016 - Jun. 2018
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point      
+      - degree: Bachelor of Science in Biology
+        university: University of California, Riverside
+        time: Sep. 2010 - Jun. 2014
+        details: |
+          Completed the UCR College of Natural & Agricultual Sciences Biology 
+          course plan requiring all general education english, humanities, and 
+          social studies. All biology, chemistry, physics, and organic chemistry 
+          were taken. Additionally, any math and statistics related courses were 
+          completed during my time at UCR. 
+            - Bullet point
+            - Bullet point
+
+experiences:
+    title: Experiences
+    info:
+      - role: Associate Instructor
+        time: January 2022 - May 2022
+        company: California State University, Fullerton
+        details: |
+          Instructed 28 students for the Compilers and Languages course as 
+          the lecturer/professor. Worked with and accommodated special 
+          needs students during both hybrid and in-person instruction. 
+            - Developed a course plan to follow throughout the university 
+              semester. The course encompasses lexical analysis, syntax 
+              analysis, how to create and implement finite state machines, and 
+              the implementation of three top-down parsers (a recursive decent 
+              parser, a predictive recursive decent parser, and a table-driven 
+              parser). 
+            - Hosted weekly office hours for students to ask questions, 
+              and provided additional lines of communication for students to 
+              ask questions throughout the week.
+            - Created and graded assignments, projects, and exams that used 
+              various C++ and Python syntax and pseudocode.
+            - Utilized Canvas to distribute assignments and projects for 
+              students. Canvas also served as a way to provide up to date 
+              results of student grades.  
+      - role: Volunteer
+        time: December 2014 - March 2015
+        company: Project Vietnam Foundation, Fountain Valley
+        details: |
+          Volunteered at Fountain Valley Regional Medical Center for Pediatrics.
+          Contributed to organization by processing participants’ resumes, 
+          planning travel assignments, and distributing visas for the workers as 
+          they prepared for their mobile care assignment.
+      - role: Volunteer
+        time: February 2012 - November 2014
+        company: COPE Health Scholar, West Covina
+        details: |
+          Volunteered at Queen of the Valley Hospital in ICU, Pediatrics, 
+          Postpartum Care, and Pre-Op. Worked alongside registered nurses and 
+          certified nursing assistants to move patients, deliver meals and 
+          beverages, deliver laboratory specimens, and prep/clean rooms for new 
+          patients.
+      - role: Volunteer
+        time: August 2013
+        company: Social Assistance Program for Vietnam (SAP-VN), Vietnam
+        details: |
+          Volunteered as a dental assistant. Prep/clean dental tools and directly 
+          assisted the dentist as they operated on the patients. Traveled with the 
+          SAP-VN volunteer team/mobile care unit to Vietnam in order to provide 
+          medical assistance to the local populace.
+
+certifications:
+      title: Certifications
+      list:
+        - name: Fundamentals of Deep Learning
+          start: 2023
+          end:
+          organization: NVIDIA
+          credentialid: 7124a1eaf6f04bf591b80aa0aaca0f89
+          credentialurl: courses.nvidia.com/certificates/7124a1eaf6f04bf591b80aa0aaca0f89/
+          credentialname: NVIDIA DLI Certificate
+          details: |
+            Understand how deep learning works through hands-on exercises in computer vision and
+            natural language processing. Train deep learning models from scratch, learning tools and tricks to
+            achieve highly accurate results. Leverage freely available, state-of-the-art pre-trained
+            models to save time and get deep learning applications up and running quickly.
+              - Learned the fundamental techniques and tools required to train a deep learning model 
+              - Experienced common deep learning data types and model architectures
+              - Enhanced datasets through data augmentation to improve model accuracy
+              - Leveraged transfer learning between models to achieve efficient results with less data and computation
+        #- name: Git learning
+        #  start: 2019
+        #  end:
+        #  organization: Microsoft
+        #  credentialid: 111-222
+        #  credentialurl: www.github.com
+        #  credentialname: Github
+        #  details: |
+        #    Older certification. Lorem ipsum dolor sit amet, consectetur
+        #    adipiscing elit.
+        #    Nullam eget orci purus. Nullam ultrices neque nibh.
+        #    Aenean fermentum, felis vulputate suscipit accumsan,
+        #    sem enim bibendum augue, sed convallis arcu lacus at dui.
+        #    Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+        #    Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+        #    Praesent venenatis erat non augue suscipit consectetur.
+
+projects:
+    title: Projects
+    #intro: >
+    #  List of projects:
+    assignments:
+      - title: Landing Page
+        link: "https://github.com/Krunk-Juice/Resume"
+        tagline: "A landing page to connect my online resume and curriculum vitae."
+
+      - title: Resume Webpage
+        link: "https://github.com/Krunk-Juice/Resume"
+        tagline: "An online version of my resume."
+
+      - title: An Alternative Way of performing BBS
+        link: "https://github.com/Krunk-Juice/Alternative-Way-of-performing-BBS"
+        tagline: "An investigation of the use of smaller subsets of the Berg Balance Scale by applying machine learning techniques."
+
+      - title: The Ethical Evaluation of Digital Twins in Healthcare
+        link: "#"
+        tagline: "A writing which dives into the ethics of the possibility of using digital twins for patients in the healthcare field."
+
+      - title: Selenium on Lichess.org
+        link: "https://github.com/victorvantran/lichess_selenium"
+        tagline: "A project using Selenium WebDriver and Python, to test the website Lichess.org."
+
+      - title: My Health Buddy
+        link: "#"
+        tagline: "A concept project which would develop a mobile app along with the use of a sensor device to measure and keep track of a user's vitals."
+
+      - title: Money Trail CRM
+        link: "https://github.com/Dpham181/CPSC-462-GROUP-2"
+        tagline: "A console-based client relationship management system in C++, following the model-view-controller design pattern."
+      
+      - title: Ray Tracing & Shadows
+        link: "https://github.com/Krunk-Juice/Ray-Tracing-Shadows"
+        tagline: "A project in which images produced have ambient, diffuse, and specular lighting (Blinn-Phong model)."
+
+      - title: OpenGL Transformations
+        link: "#"
+        tagline: "A project using OpenGL, to display and move the object/shape in the OpenGL window. Move the camera position in the OpenGL window. Transform the shape in the OpenGL window."
+
+      - title: CSUF SWAP
+        link: "https://github.com/Krunk-Juice/CSUF-Parking-App"
+        tagline: "A school parking app developed for Android and iOS."
+
+      - title: Lexical Analyzer
+        link: "https://github.com/Krunk-Juice/Lexical-Analyzer-v2"
+        tagline: "Part 1 of the Predictive Parser, where a string is tokenized for syntax analysis."
+
+      - title: Syntactic Analyzer & Predictive Parser
+        link: "https://github.com/Krunk-Juice/Syntactic-Analyzer-Predictive-Parser"
+        tagline: "Part 2 of the Predictive Parser, where the tokenized string is parsed to see if it is accepted grammar."
+
+      - title: Computer Builder Expert System
+        link: "#"
+        tagline: "A concept project of an expert system that can simulate and experienced computer builder."
+      
+      - title: Rewriting Greeting Cards
+        link: "https://github.com/Krunk-Juice/Rewriting-Greeting-Cards"
+        tagline: "A small console program that rewrites greeting cards by replacing key terms with interchangeable words."
+
+      - title: Cumulative Frequencies
+        link: "https://github.com/Krunk-Juice/Cumluative-Frequencies"
+        tagline: "A small console program that counts the number of occurrences a word and its synonyms appear in a text."
+
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    #intro: |
+    #  List of publications:
+    papers:
+      - title: Exploring Machine Learning Techniques for Fall Risk Prediction using the Berg Balance Scale
+        link: "https://ieeexplore.ieee.org/document/10174419"
+        authors: Christopher Ta, Rong Jin
+        conference: 2023 IEEE World AI IoT Congress
+
+      #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      #  link: "#"
+      #  authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      #  conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      #- title: A syntax directed compiler for Algol 60
+      #  link: "#"
+      #  authors: Edgar T. Irons
+      #  conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Windows
+        level: 98%
+      
+      - name: C & C++
+        level: 95%
+
+      - name: Python
+        level: 95%
+
+      - name: Visual Studio
+        level: 90%
+
+      - name: Linux
+        level: 85%  
+
+      - name: Docker
+        level: 85%
+
+      - name: Anaconda
+        level: 80%
+
+      - name: x86 Assembly
+        level: 78%
+
+      - name: Tailscale
+        level: 75%
+
+      - name: Java
+        level: 75%
+
+      - name: C#
+        level: 75%
+        
+      - name: JavaScript
+        level: 75%
+
+      - name: LaTeX
+        level: 75%
+
+      - name: Selenium
+        level: 70%
+      
+      - name: Dart
+        level: 70%
+
+      - name: GLSL
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
