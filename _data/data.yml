@@ -17,10 +17,10 @@ sidebar:
     phone: 626 506 7355
     timezone: America/Los_Angeles # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: United States Citizen
-    website: krunk-juice.github.io # Do not add https:// (Only works with https://, otherwise edit in _includes/contact.html) ### Include the full website URL, including "http://" or "https://".
+    website: ch-ta.github.io # Do not add https:// (Only works with https://, otherwise edit in _includes/contact.html) ### Include the full website URL, including "http://" or "https://".
     linkedin: chris-ta
     xing: 
-    github: krunk-juice
+    github: ch-ta
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -199,15 +199,15 @@ projects:
     #  List of projects:
     assignments:
       - title: Landing Page
-        link: "https://github.com/Krunk-Juice/Resume"
+        link: "https://github.com/ch-ta/Resume"
         tagline: "A landing page to connect my online resume and curriculum vitae."
 
       - title: Resume Webpage
-        link: "https://github.com/Krunk-Juice/Resume"
+        link: "https://github.com/ch-ta/Resume"
         tagline: "An online version of my resume."
 
       - title: An Alternative Way of performing BBS
-        link: "https://github.com/Krunk-Juice/Alternative-Way-of-performing-BBS"
+        link: "https://github.com/ch-ta/Alternative-Way-of-performing-BBS"
         tagline: "An investigation of the use of smaller subsets of the Berg Balance Scale by applying machine learning techniques."
 
       - title: The Ethical Evaluation of Digital Twins in Healthcare
@@ -227,7 +227,7 @@ projects:
         tagline: "A console-based client relationship management system in C++, following the model-view-controller design pattern."
       
       - title: Ray Tracing & Shadows
-        link: "https://github.com/Krunk-Juice/Ray-Tracing-Shadows"
+        link: "https://github.com/ch-ta/Ray-Tracing-Shadows"
         tagline: "A project in which images produced have ambient, diffuse, and specular lighting (Blinn-Phong model)."
 
       - title: OpenGL Transformations
@@ -235,15 +235,15 @@ projects:
         tagline: "A project using OpenGL, to display and move the object/shape in the OpenGL window. Move the camera position in the OpenGL window. Transform the shape in the OpenGL window."
 
       - title: CSUF SWAP
-        link: "https://github.com/Krunk-Juice/CSUF-Parking-App"
+        link: "https://github.com/ch-ta/CSUF-Parking-App"
         tagline: "A school parking app developed for Android and iOS."
 
       - title: Lexical Analyzer
-        link: "https://github.com/Krunk-Juice/Lexical-Analyzer-v2"
+        link: "https://github.com/ch-ta/Lexical-Analyzer-v2"
         tagline: "Part 1 of the Predictive Parser, where a string is tokenized for syntax analysis."
 
       - title: Syntactic Analyzer & Predictive Parser
-        link: "https://github.com/Krunk-Juice/Syntactic-Analyzer-Predictive-Parser"
+        link: "https://github.com/ch-ta/Syntactic-Analyzer-Predictive-Parser"
         tagline: "Part 2 of the Predictive Parser, where the tokenized string is parsed to see if it is accepted grammar."
 
       - title: Computer Builder Expert System
@@ -251,11 +251,11 @@ projects:
         tagline: "A concept project of an expert system that can simulate and experienced computer builder."
       
       - title: Rewriting Greeting Cards
-        link: "https://github.com/Krunk-Juice/Rewriting-Greeting-Cards"
+        link: "https://github.com/ch-ta/Rewriting-Greeting-Cards"
         tagline: "A small console program that rewrites greeting cards by replacing key terms with interchangeable words."
 
       - title: Cumulative Frequencies
-        link: "https://github.com/Krunk-Juice/Cumluative-Frequencies"
+        link: "https://github.com/ch-ta/Cumluative-Frequencies"
         tagline: "A small console program that counts the number of occurrences a word and its synonyms appear in a text."
 
 #oss:
