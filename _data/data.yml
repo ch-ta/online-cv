@@ -110,6 +110,21 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: IT Support Technician
+        time: March 2025 - Current
+        company: Self-Employed
+        details: |
+          Administered IT support for a dental practice, overseeing hardware migrations, network 
+          troubleshooting, and secure data-backup implementation. 
+          - Deployed end-to-end technology deployment for a dental practice, overseeing 
+            hardware refreshes, Windows 11 migrations, and integration of Open Dental and 
+            XDR platforms. 
+          - Resolved network-related incidents, restoring connectivity and software access for 
+            clinical staff. 
+          - Configured secure backup solutions that protect patient data, meeting 
+            HIPAA-compliant retention policies and reducing data-loss risk. 
+          - Acted as the primary liaison between the dental office and third-party software 
+            vendors, translating technical requirements for non-technical staff. 
       - role: Associate Instructor
         time: January 2022 - May 2022
         company: California State University, Fullerton
@@ -198,6 +213,18 @@ projects:
     #intro: >
     #  List of projects:
     assignments:
+      - title: OCI VPS Secure Reverse Proxy & Home-Service Tunnel
+        link: "#"
+        tagline: "Using Oracle Cloud Infrastructure virutal private server as a reverse proxy and VPN tunnel entrypoint for a home service."
+
+      - title: Shell-Script Automation Suite
+        link: "https://github.com/ch-ta/Bash-Script-Collection"
+        tagline: "Collection of Bash scripts for system health monitoring, log rotation, and automated patch deployment."
+
+      - title: Docker-Compose Monitoring Stack
+        link: "https://github.com/ch-ta/Docker-Compose-Collection"
+        tagline: "Multi-service stack deployed on a Raspberry Pi 4, featuring custom Python metric collection, health-check scripts, and Grafana dashboards for infrastructure monitoring."
+
       - title: Landing Page
         link: "https://github.com/ch-ta/Resume"
         tagline: "A landing page to connect my online resume and curriculum vitae."
